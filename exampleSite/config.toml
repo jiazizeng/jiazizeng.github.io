@@ -19,7 +19,7 @@ DefaultContentLanguage = "en"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
+disqus = "JIAZIZENG" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
@@ -29,4 +29,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://jiazizeng.github.io"
