@@ -4,6 +4,7 @@ homepage = "https://github.com/joway/hugo-theme-yinyang"
 license = "MIT"
 licenselink = "https://github.com/joway/hugo-theme-yinyang/blob/master/LICENSE.md"
 min_version = "0.50"
+theme = "yinyang"
 name = "Yinyang"
 tags = [
   "blog",
